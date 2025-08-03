@@ -49,10 +49,10 @@ To extract a hidden message from an image, StegnoSafe requires:
 > Sample interface views of StegnoSafe’s guided terminal UI.
 
 ### Encoding Interface
-![Encoding Screenshot](./screenshots/encoding.png)
+![Encoding Screenshot](Encoding.png)
 
 ### Decoding Interface
-![Decoding Screenshot](./screenshots/decoding.png)
+![Decoding Screenshot](Decoding.png)
 
 ---
 
